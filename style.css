@@ -1,0 +1,78 @@
+.wrapper {
+
+	font-family: 'Raleway', sans-serif;
+	margin-top: 200px;
+	line-height: 22px;
+	/*margin-left: 200px;*/
+	
+}
+
+	
+	h1, h2 { 
+
+		text-align: right;
+		width: 48%;
+		margin: 0 0 0 0;
+	}
+
+	h1 {
+		font-size: 25px;
+		font-family: 700;
+	}
+
+	h2 {
+		font-size: 18px;
+		font-family: 500;
+		font-style: italic;
+	}
+
+	div {
+		font-style: normal;
+		font-size: 12px;
+		font-weight: 500;
+	}
+
+	.wrapper > div {
+
+	}
+
+	.title {
+
+	}
+
+	.info {
+		
+	}
+
+	.website {
+
+	}
+
+	.video {
+
+	}
+
+		.left {
+			/*border: solid 1px orange;*/
+
+		}
+
+		.right {
+			width: 650px;
+			padding-left: 50%;
+			/*border: solid 1px green;*/
+			margin-bottom: 52px;
+
+		}
+
+		.thumbnail {
+			margin-bottom: 2px;
+		}
+
+		#thumbnail {
+			/*border:; solid 2px black;*/
+		}
+
+		#hyperlink {
+				float: right;
+		}
